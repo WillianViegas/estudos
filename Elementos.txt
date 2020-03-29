@@ -2,3 +2,4 @@ Fogo
 Agua
 Terra
 Ar
+Metal
