@@ -4,3 +4,4 @@ Terra
 Ar
 Metal
 Escuridão
+Luz
