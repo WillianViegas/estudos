@@ -1,3 +1,3 @@
 # Repo de Estudos
-![Uploading transferir.png](Git)
+![Git](transferir.png)
 Este repositório serve de exemplo para o curso Git e GitHub
