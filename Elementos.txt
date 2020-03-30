@@ -3,3 +3,4 @@ Agua
 Terra
 Ar
 Metal
+Escuridão
