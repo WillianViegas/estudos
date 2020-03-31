@@ -3,5 +3,6 @@ Terça-Feira
 Quinta-Feira
 Sexta-Feira
 Sábado
+Domingo
 
 
